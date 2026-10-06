@@ -11,11 +11,15 @@ Websites on Vercel at https://vercel.com/eagcraft/
 
 https://backup-2-eaglercraft-bqql9z6k6-eagcraft.vercel.app/
 
-https://minecraft-262-works-1.vercel.app/
+https://minecraft-three-beta.vercel.app
 
 https://eagler-26-2-clone1.vercel.app/
 
+https://minecraft-gspq22e8h-eagcraft.vercel.app
+
 https://mrhintzisgay.vercel.app/
+
+https://minecraft-gspq22e8h-eagcraft.vercel.app
 
 https://clone5-six.vercel.app/
 
