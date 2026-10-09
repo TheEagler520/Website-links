@@ -10,7 +10,7 @@ Websites on Vercel at https://vercel.com/eagcraft/
 >If Vercel is blocked, its GGs. For now. Until i get more hosting services. Stay tuned for next week's updates, I will try to add these under different subdomains.
 
 
------------------------------------------------------##***EAGLER 26.2 LINKS***------------------------------------------------------------
+## EAGLER 26.2 LINKS
 
 <https://backup-2-eaglercraft-bqql9z6k6-eagcraft.vercel.app/>
 
