@@ -1,3 +1,2 @@
 # Website-links
-A link to all the websites I've made. Will be updated weekly.
-Note that its simply a text file. Copy and paste the links provided. Make sure to only use one at a time so it doesn't get blocked.
+A link to all the websites I've made. Will be updated weekly. Check out the Website Links.md file for the rest of the info.
