@@ -1,13 +1,13 @@
-//This is the website links for all the sites I've made
-
-/*If you want to see my repositories, click on my
+> [!NOTE]
+This is the website links for all the sites I've made. If you want to see my repositories, click on my
 repository tab in GitHub. Please note that my
 Repositories are all blank as the code for 26.2
 eaglercraft is too big (72mb). check out the 
 Websites on Vercel at https://vercel.com/eagcraft/
 
-//By the way if they block Vercel ur probably fried but I'll find a way to make it under a different domain soon don't worry guys
 
+>[!WARNING]
+>If Vercel is blocked, its GGs. For now. Until i get more hosting services. Stay tuned for next week's updates, I will try to add these under different subdomains.
 
 
 -----------------------------------------------------##***EAGLER 26.2 LINKS***------------------------------------------------------------
